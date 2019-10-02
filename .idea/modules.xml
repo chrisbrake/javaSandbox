@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/javaSandbox.iml" filepath="$PROJECT_DIR$/javaSandbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaSandbox.main.iml" filepath="$PROJECT_DIR$/.idea/modules/javaSandbox.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/javaSandbox.test.iml" filepath="$PROJECT_DIR$/.idea/modules/javaSandbox.test.iml" />
     </modules>
   </component>
 </project>
